@@ -15,3 +15,7 @@ But at least I made stuff
 ### lists.html
 **[1.15.2025]**
 *A file of unnecessary lists to show off I can make lists.*
+
+### odin-links-and-images
+**Created:** [1.15.2025]
+*A codealong project for links and images.*
