@@ -13,5 +13,5 @@ But at least I made stuff
 # List of Projects
 
 ### lists.html
-**1.15.2025**
+**[1.15.2025]**
 *A file of unnecessary lists to show off I can make lists.*
